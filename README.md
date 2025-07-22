@@ -2,6 +2,7 @@
 
 Thesis :  
 Use of AI to moniter/check samplings { within music , poetry , and sonic media } .  
+{ as submission for UWI , Computer Science - emphasis : Artificial Intelligence - MPhil to PhD to Professor , Candidate }
 
 Benefit :  
 To increase the monetization of art and creation of music that artists , especially those historically disenfranchised ( i.e. Black/African-Americans in relation to the creation and innovation of Rock , R&B , Folk , Funk , Jazz , Gospel , Bluegrass , Country , Disco , Soul , Neo-Soul , Hip-Hop , etc . ; and Caribbeans in relation to the creation and innovation of Calypso , Reggae , Soca , etc . ; and Africans in relation to the creation and innovation of Amapiano , AfroFusion , etc .  )  
